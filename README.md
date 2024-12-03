@@ -28,3 +28,5 @@ python3 brute.py
 ```
 ## Disclaimer
 Tools ini dibuat untuk tujuan edukasi dan penetration testing. Penggunaan alat ini untuk menyerang atau mengeksploitasi sistem tanpa izin adalah ilegal. Pembuat tools ini (@wongalus7) tidak bertanggung jawab atas penggunaan alat ini secara tidak sah.
+
+Author: https://github.com/zelsaddr/Moodle_Bruteforcer
