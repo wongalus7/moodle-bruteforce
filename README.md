@@ -1,5 +1,5 @@
 # Moodle-Bruuteforce - Moodle Single Login Page Bruteforce with custom powerful wordlist!
-![Moodle-Bruuteforce](https://i.imgur.com/SOxsSwB.png)
+![Moodle-Bruuteforce](https://i.imgur.com/GmrBSba.png)
 **Moodle-Bruuteforce** - Moodle Single Login Page Bruteforce with custom powerful wordlist ini dibuat untuk melakukan bruteforce login pada halaman login Moodle menggunakan kombinasi username dan password. Didesain untuk mempermudah penetration testing login dengan custom wordlist yang bisa dihasilkan secara dinamis (simple and powerful) lalu dilanjutkan bruteforce menggunakan file wordlist default (wordy.txt).
 
 
